@@ -1,0 +1,35 @@
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 1rem;
+  color: white;
+letter-spacing: 2px;
+}
+
+.nav-link{
+font-family: "Ubuntu";
+padding-right:  20%;
+letter-spacing: 2px;
+color: white;
+}
+
+.container{
+  padding: 15% 30%;
+  font-family: "Ubuntu";
+  border-color: black;
+  text-align: center;
+
+}
+
+.btn{
+    border-color: black;
+    color: white;
+    background-color: black;
+     padding: 15px 32px;
+  }
+  .btn:hover{
+    color: grey;
+  }
+
+.navbar-brand{
+  padding-left: 20px;
+}
